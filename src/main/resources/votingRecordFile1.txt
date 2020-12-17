@@ -1,0 +1,9 @@
+voter_name1;bo0th_name1;party1
+voter_name2;bo0th_name1;party2
+voter_name3;bo0th_name1;party3
+voter_name4;bo0th_name1;party1
+voter_name5;bo0th_name1;party1
+voter_name6;bo0th_name1;party3
+voter_name7;bo0th_name1;party2
+voter_name8;bo0th_name1;party3
+voter_name9;bo0th_name1;party1
